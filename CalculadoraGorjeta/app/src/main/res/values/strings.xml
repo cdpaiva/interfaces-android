@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CalculadoraGorjeta</string>
+    <string name="total_da_conta">Total da Conta</string>
+    <string name="valor_da_conta">Valor da conta</string>
+    <string name="quantas_pessoas">Quantas pessoas?</string>
+    <string name="quantidade_de_pessoas">Quantidade de pessoas</string>
+    <string name="gorjeta">Gorjeta:</string>
+    <string name="valor_gorjeta">Valor gorjeta</string>
+    <string name="textview">TextView</string>
+    <string name="total">Total</string>
+    <string name="total_por_pessoa">Total por pessoa</string>
+</resources>
